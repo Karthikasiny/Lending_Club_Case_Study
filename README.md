@@ -1,2 +1,2 @@
 # Lending_Club_Case_Study
-Lending_Club_Default_Analysis.ipynb
+LENDING_CLUB_CASE_STUDY.ipynb
